@@ -11,8 +11,9 @@
   <a href= "https://instagram.com/gghaya.22"><img src="https://img.icons8.com/material-outlined/32/000000/instagram.png"/></a>
 <a href= "https://www.facebook.com/lina.ikram.969?mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency-systems-regular/32/null/facebook-new--v1.png"/></a>
 </p>
-
-<a align="center" href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
+<center>
+<a  href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
+</center>
 
 
 <p align="center">
