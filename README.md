@@ -12,9 +12,9 @@
 <a href= "https://www.facebook.com/lina.ikram.969?mibextid=ZbWKwL"><img src="https://img.icons8.com/fluency-systems-regular/32/null/facebook-new--v1.png"/></a>
 </p>
 
+<a align="center" href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
 
 
-<p align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,html,css,js,c,cpp,cs,python,php,java" /> </br>
   <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,visualstudio,figma,androidstudio,ai,hibernate" /> </br>
