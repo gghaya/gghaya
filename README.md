@@ -1,12 +1,12 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Software Engineer , and student at 42network, I'm exploring DevOps tech </samp></h4>
+<center>
+<a  href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
+</center>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-<center>
-<a  href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
-</center>
 
 <p align="center">
 <a href= "https://ma.linkedin.com/in/ghizlane-ghaya-0265b2170"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
