@@ -2,10 +2,9 @@
 <center>
 <a  href="https://github.com/gghaya"><img src="https://badge.mediaplus.ma/greenbinary/gghaya" alt="gghaya's 42 stats" /></a> 
 </center>
-
-//<p align="center">
-  //<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-//</p>
+<p align="center">
+<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 <p align="center">
